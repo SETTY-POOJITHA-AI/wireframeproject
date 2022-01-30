@@ -12,9 +12,14 @@ The design is done using Pencil project application.
 The layout of the website is done using "Desktop sketchy GUI".
 
 ## OUTPUT:
+
+### HOME
 ![GitHub Logo](Home.jpg)
+### History Page
 ![GitHub Logo](History.jpg)
+### Media Gallery
 ![GitHub Logo](Gallery.jpg)
+### People To Know
 ![GitHub Logo](People.jpg)
 
 ## Result:
