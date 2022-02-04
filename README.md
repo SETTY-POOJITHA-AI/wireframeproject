@@ -11,15 +11,17 @@ The design is done using Pencil project application.
 ### Step 2:
 The layout of the website is done using "Desktop sketchy GUI".
 
+### Step 3:
+Upload the screenshots in VS code.
+
 ## OUTPUT:
 
-### HOME
 ![GitHub Logo](Home.jpg)
-### History Page
+
 ![GitHub Logo](History.jpg)
-### Media Gallery
+
 ![GitHub Logo](Gallery.jpg)
-### People To Know
+
 ![GitHub Logo](People.jpg)
 
 ## Result:
